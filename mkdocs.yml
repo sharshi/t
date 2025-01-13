@@ -6,3 +6,6 @@ plugins:
   - blogging:
       dirs:
         - posts
+locale: en
+time_format: '%Y-%m-%d %H:%M:%S'
+meta_time_format: '%Y-%m-%d %H:%M:%S'
