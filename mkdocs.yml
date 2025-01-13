@@ -11,11 +11,10 @@ plugins:
       dirs:
         - posts
   - mkdocs-breadcrumbs-plugin:
-      delimiter: " / "  # separator between sections
-      log_level: "WARNING"  # "DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"
+      delimiter: " 𓉱 "
       exclude_paths:
         - "docs/mkdocs/**"
-        - "docs/mkdocs"   # avoid generating index.md
+        - "docs/mkdocs"
       additional_index_folders:
         - temp_dir
       generate_home_index: false
