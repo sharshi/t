@@ -5,8 +5,8 @@ nav:
 - Home: index.md
 - Posts: posts/index.md
 
-
 plugins:
+  - search
   - blogging:
       dirs:
         - posts
@@ -19,9 +19,10 @@ plugins:
         - temp_dir
       generate_home_index: false
 
+theme:
+  name: material
+  
+# blogging settings
 locale: en
 time_format: '%Y-%m-%d %H:%M:%S'
 meta_time_format: '%Y-%m-%d %H:%M:%S'
-
-theme:
-  name: material
