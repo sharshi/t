@@ -2,6 +2,10 @@ site_name: My Docs
 theme:
   name: material
 site_url: https://sharshi.github.io/t
+nav:
+- Home:
+  - index.md
+  - Posts: posts/index.md
 plugins:
   - blogging:
       dirs:
