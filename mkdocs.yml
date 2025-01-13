@@ -1,3 +1,8 @@
 site_name: My Docs
 theme:
   name: material
+site_url: https://sharshi.github.io/t
+plugins:
+  - blogging:
+      dirs:
+        - posts
