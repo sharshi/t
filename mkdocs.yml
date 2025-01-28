@@ -9,7 +9,7 @@ nav:
 plugins:
   - search
   - blog:
-    blog_dir: posts
+      blog_dir: posts
 
 
 theme:
