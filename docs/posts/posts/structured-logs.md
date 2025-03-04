@@ -7,6 +7,7 @@ description: >
   Structured Logs in .NET
 categories:
   - dotnet
+comments: true
 ---
 
 
