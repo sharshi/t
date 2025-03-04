@@ -547,14 +547,14 @@
 <p>For example:</p>
 <p>In the <code>RCMBackgroundService</code> there is a log:
 <code>_logger.LogInformation("Excecuting {ClassName}", className);</code></p>
-<p>You can find any log, logged with the Variable <code>ClassName</code> like this:</p>
-<pre><code>traces
+<p>You can find any log, logged with the Variable <code>ClassName</code> like this:
+<div class="highlight"><pre><span></span><code>traces
 | where customDimensions.OriginalFormat == &quot;{ClassName}&quot;
-</code></pre>
-<p>And specific ones like this:</p>
-<pre><code>traces
+</code></pre></div>
+And specific ones like this:
+<div class="highlight"><pre><span></span><code>traces
 | where customDimensions.ClassName == &quot;TaskUpdateNotificationService&quot;
-</code></pre>
+</code></pre></div></p>
 
 
 

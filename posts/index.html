@@ -489,14 +489,14 @@
 <p>For example:</p>
 <p>In the <code>RCMBackgroundService</code> there is a log:
 <code>_logger.LogInformation("Excecuting {ClassName}", className);</code></p>
-<p>You can find any log, logged with the Variable <code>ClassName</code> like this:</p>
-<pre><code>traces
+<p>You can find any log, logged with the Variable <code>ClassName</code> like this:
+<div class="highlight"><pre><span></span><code>traces
 | where customDimensions.OriginalFormat == &quot;{ClassName}&quot;
-</code></pre>
-<p>And specific ones like this:</p>
-<pre><code>traces
+</code></pre></div>
+And specific ones like this:
+<div class="highlight"><pre><span></span><code>traces
 | where customDimensions.ClassName == &quot;TaskUpdateNotificationService&quot;
-</code></pre>
+</code></pre></div></p>
     
   </div>
 </article>
@@ -523,12 +523,16 @@
   </header>
   <div class="md-post__content md-typeset">
     <h2 id="odata-with-custom-endpoints"><a class="toclink" href="2025/01/19/odata-with-custom-endpoints/">Odata with custom endpoints</a></h2>
-<p>=== "sfard"</p>
-<pre><code>&lt;p&gt;hi&lt;/p&gt;
-</code></pre>
-<p>=== "ashkenaz"</p>
-<pre><code>&lt;p&gt;helloi&lt;/p&gt;
-</code></pre>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">sfard</label><label for="__tabbed_1_2">ashkenaz</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><p>hi</p></p>
+</div>
+<div class="tabbed-block">
+<p><p>helloi</p></p>
+</div>
+</div>
+</div>
     
   </div>
 </article>
