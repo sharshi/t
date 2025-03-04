@@ -5,9 +5,8 @@ nav:
   - index.md
   - Posts:
     - posts/index.md
-  - Projects:
-    - projects/index.md
-
+  - Projects
+  
 plugins:
   - search
   - blog:
