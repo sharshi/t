@@ -11,8 +11,12 @@ plugins:
   - blog:
       blog_dir: posts
 
-
 theme:
   name: material
   features:
     - navigation.indexes
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
