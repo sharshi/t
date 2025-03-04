@@ -2,18 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://sharshi.github.io/t/</loc>
-         <lastmod>2025-01-28</lastmod>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
          <loc>https://sharshi.github.io/t/posts/</loc>
-         <lastmod>2025-01-28</lastmod>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
          <loc>https://sharshi.github.io/t/posts/2025/01/19/odata-with-custom-endpoints/</loc>
-         <lastmod>2025-01-28</lastmod>
+         <lastmod>2025-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://sharshi.github.io/t/posts/2025/03/04/structured-logs/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
     <url>
          <loc>https://sharshi.github.io/t/posts/archive/2025/</loc>
-         <lastmod>2025-01-28</lastmod>
+         <lastmod>2025-03-04</lastmod>
+    </url>
+    <url>
+         <loc>https://sharshi.github.io/t/posts/category/dotnet/</loc>
+         <lastmod>2025-03-04</lastmod>
     </url>
 </urlset>
