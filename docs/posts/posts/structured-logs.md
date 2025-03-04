@@ -1,3 +1,15 @@
+---
+title: Structured Logs in .NET
+date: 2025-03-04
+authors: [sharshi]
+slug: structured-logs
+description: >
+  Structured Logs in .NET
+categories:
+  - dotnet
+---
+
+
 # Structured Logs in .NET
 
 with regular string interpolation, if you want to find all the logs where AccountId == 244 you have to hope the logs are in a very specific format and you need to search for ('accountid: 244', 'account id = 244', 'accountid = 244' etc...).
