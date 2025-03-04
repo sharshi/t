@@ -2,7 +2,7 @@
 title: Structured Logs in .NET
 date: 2025-03-04
 authors: [sharshi]
-slug: structured-logs
+slug: structured-logs-dotnet
 description: >
   Structured Logs in .NET
 categories:
