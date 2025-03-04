@@ -6,7 +6,7 @@ nav:
   - Posts:
     - posts/index.md
   - Projects:
-    - index.md
+    - projects/index.md
     - Siddur: projects/siddur.md
     - 'Web Hunt': projects/webhunt.md
     - 'Tidy Albatross': projects/tidy-albatross.md
