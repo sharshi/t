@@ -3,14 +3,13 @@ site_url: https://sharshi.github.io/t
 
 nav:
   - index.md
-  - Blog:
+  - Posts:
     - posts/index.md
 
 plugins:
   - search
   - blog:
       blog_dir: posts
-      blog_title: Posts
 
 
 theme:
