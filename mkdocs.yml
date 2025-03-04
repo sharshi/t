@@ -5,7 +5,12 @@ nav:
   - index.md
   - Posts:
     - posts/index.md
-  - Projects
+  - Projects:
+    - index.md
+    - Siddur: projects/siddur.md
+    - 'Web Hunt': projects/webhunt.md
+    - 'Tidy Albatross': projects/tidy-albatross.md
+
   
 plugins:
   - search
