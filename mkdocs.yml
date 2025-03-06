@@ -21,6 +21,7 @@ theme:
   name: material
   features:
     - navigation.indexes
+    - navigation.expand
   custom_dir: overrides
   extra:
     comments: true
