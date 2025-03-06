@@ -1,5 +1,6 @@
 ---
 date: 2025-01-19
+draft: true
 ---
 
 # Odata with custom endpoints
