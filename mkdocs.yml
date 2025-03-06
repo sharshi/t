@@ -16,6 +16,7 @@ plugins:
   - search
   - blog:
       blog_dir: posts
+      archive_toc: true
 
 theme:
   name: material
