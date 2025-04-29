@@ -1,5 +1,5 @@
-site_name: info
-site_url: https://sharshi.github.io/t
+site_name: Shersheial Borisute
+site_url: https://www.sharshi.com
 
 nav:
   - index.md
@@ -11,6 +11,7 @@ nav:
     - 'Web Hunt': projects/webhunt.md
     - 'Tidy Albatross': projects/tidy-albatross.md
 
+nav_title: Menu
   
 plugins:
   - search
